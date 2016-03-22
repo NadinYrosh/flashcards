@@ -33,4 +33,9 @@ h1 {
 
 h3.card {
     font-weight: 100!important;
+    padding: 5px;
+}
+
+.card p{
+  display: none;
 }
